@@ -1,0 +1,65 @@
+body{
+    background-color: #FFF6AA;
+}
+.one{
+    font-size: 2rem;
+    color: white;
+    background-color: #12D799;
+    text-align: center;
+}
+.two{
+    font-size: 2rem;
+    color: white;
+    background-color: #F83461;
+    text-align: center;
+}
+.three{
+    font-size: 2rem;
+    color: white;
+    background-color: #077CAD;
+    text-align: center;
+}
+.four{
+    font-size: 2rem;
+    color: white;
+    background-color: #FFD358;
+    text-align: center;
+}
+.five{
+    font-size: 2rem;
+    color: white;
+    background-color: #12D799;
+    text-align: center;
+}
+.six{
+    font-size: 2rem;
+    color: white;
+    background-color: #F83461;
+    text-align: center;
+}
+
+
+.header{
+    font-size: 2rem;
+    color: white;
+    background-color: #12D799;
+    text-align: center;
+}
+.menu{
+    font-size: 2rem;
+    color: white;
+    background-color: #F83461;
+    text-align: center;
+}
+.content{
+    font-size: 2rem;
+    color: white;
+    background-color: #077CAD;
+    text-align: center;
+}
+.footer{
+    font-size: 2rem;
+    color: white;
+    background-color: #FFD358;
+    text-align: center;
+}
